@@ -1,0 +1,73 @@
+﻿body{
+	background-image: url('images/astronomy-cosmos-dark-733475.jpg');
+	background-repeat:no-repeat;
+	background-size: 100% 200%;
+	margin: 0;
+}
+
+.sidenav{
+	height: 100%;
+	width: 150px;
+	position: fixed;
+	background-color: #07568B;
+	overflow: hidden;
+	padding-top: 40px; 
+}
+
+.sidenav a{
+	padding: 16px 10px 8px 15px;
+	font-size: 20px;
+	text-decoration: none;
+	color: white;
+	display: block;
+}
+
+.sidenav a:hover{
+	
+color:#77898F;
+}
+
+h1{
+	font-size:45px;
+	padding-top:100px;
+	padding-left:40%;
+	font-family:lato;
+	color:white;
+	
+}
+h2{
+	padding: 50px;
+	padding-left:35%;
+	font-size:20px;
+	font-family:lato;
+	color:white;
+}
+
+.footer{
+	padding: 8px;
+	position: fixed;
+	left: 0;
+	bottom:0;
+	width: 100%;
+	color: white;
+	text-align:left;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,82 @@
+﻿body{
+	background-image:url('images/fifa2020.jpg');
+	background-repeat:no-repeat;
+	background-size:100% 200%;
+}
+
+.navbar{
+	font-family: lato;
+	width: 100%;
+	background-color: #F74658 ;
+	overflow: auto;
+}
+
+.navbar a{
+	font-family: lato;
+	float: left;
+	padding: 12px;
+	color: gray;
+	text-decoration: none ;
+	font-size: 25px;
+	width: 31%;
+	text-align: center ;
+}
+
+.navbar a:hover{
+	background-color: black;
+	
+}
+
+h1{
+	width:100%;
+	color:white;
+	margin-top:0px;
+	font-family:Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+	font-size:70px;
+	text-align:center;
+	text-shadow:1px 1px black;	
+}
+
+h2{
+	font-size:40px;
+	color:white;
+	font-family:Lato;
+	text-align:center;
+}
+
+table{
+	font-family:Lato;
+	border-collapse:separate;
+	width:60%;
+	text-align:left;
+	margin-top:20px;
+}
+
+th{
+	font-size:20px;
+	padding:8px;
+	background-color:white;
+}
+
+td{
+	font-size:15px;
+	padding:8px;
+}
+
+tr:nth-child(odd){
+	background-color:gray;
+}
+
+tr:nth-child(even){
+	background-color:WindowFrame;
+}
+
+.footer{
+	position:fixed;
+	left:0;
+	bottom:0;
+	width:100%;
+	background-color:black;
+	color: white;
+	text-align:center;
+}
